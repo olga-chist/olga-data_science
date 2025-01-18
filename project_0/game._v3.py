@@ -42,6 +42,5 @@ def score_game(game_core_v3) -> int:
 
     for number in random_array:
         count_ls.append(game_core_v3(number))
-    score = int(np.mean(count_ls)) # почему то score не виден 
+    score = int(np.mean(count_ls)) # почему то score не виден, из за этого в print ошибка
 
-print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
