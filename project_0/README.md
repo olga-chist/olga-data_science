@@ -1,12 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта]
-[2. Какой кейс решаем ?]
-[3. Краткая информация о данных]
-[4. Этапы работы над проектом]
-[5. Результаты]
-[6. Выводы]
+[1. Описание проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
+
+[2. Какой кейс решаем ?](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
+
+[3. Краткая информация о данных](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
+
+[4. Этапы работы над проектом](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
+
+[5. Результаты](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
+
+[6. Выводы](https://github.com/olga-chist/olga-data_science/tree/main/project_0)
 
 ### Описание проекта 
 Угадать заданное число компьютером за минимальное число попыток.
