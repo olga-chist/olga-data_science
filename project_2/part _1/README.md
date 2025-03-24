@@ -1,17 +1,17 @@
-# Проект 2. Анализ резюме из HeadHunter
+# Проект 2. Анализ резюме из HeadHunter часть 1
 
 ## Оглавление
-[1. Описание проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[1. Описание проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
-[2. Цель проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[2. Цель проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
-[3. Краткая информация о данных](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[3. Краткая информация о данных](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
-[4. Этапы работы над проектом](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[4. Этапы работы над проектом](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
-[5. Результаты](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[5. Результаты](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
-[6. Выводы](https://github.com/olga-chist/olga-data_science/tree/main/project_2)
+[6. Выводы](https://github.com/olga-chist/olga-data_science/tree/main/project_2/part_1)
 
 ### Описание проекта 
 ***Проблематика:*** часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
