@@ -1,17 +1,17 @@
-# Проект 5. Задача регресии. Предсказание продолжительности поездки на такси в Нью-Йорке
+# Проект 5. Задача регрессии. Предсказание продолжительности поездки на такси в Нью-Йорке
 
 ## Оглавление
-[1. Описание проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[1. Описание проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
-[2. Цель проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[2. Цель проекта](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
-[3. Краткая информация о данных](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[3. Краткая информация о данных](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
-[4. Этапы работы над проектом](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[4. Этапы работы над проектом](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
-[5. Результаты](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[5. Результаты](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
-[6. Выводы](https://github.com/olga-chist/olga-data_science/tree/main/project_4)
+[6. Выводы](https://github.com/olga-chist/olga-data_science/tree/main/project_5)
 
 ### Описание проекта 
 
