@@ -33,7 +33,7 @@
 ## 🛠 Технологии
 - Python
 - Pandas / NumPy
-- Matplotlib / Seaborn / Plotly
+- Matplotlib / Seaborn
 - Scikit-learn
 - CatBoost, LightGBM
 - Jupyter Notebook
