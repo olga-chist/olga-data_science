@@ -45,7 +45,7 @@ project_5/
 │   └── data_description.md
 ├── notebooks/
 │   └── project_5.ipynb
-├── models/ # Сохранённые артефакты
+├── models/ 
 │ ├── catboost_model.pkl
 │ ├── scaler.pkl
 │ └── selector.pkl
