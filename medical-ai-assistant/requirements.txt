@@ -1,0 +1,8 @@
+# medical-project/requirements.txt
+nltk==3.8.1
+sentence-transformers==2.2.2
+chromadb==0.4.22
+langchain==0.2.0
+pypdf2==3.0.1
+llama-cpp-python==0.2.56
+huggingface-hub==0.22.2
