@@ -5,9 +5,8 @@ mtr_data/
 
 # Модели
 *.gguf
-*.pth
-*.pt
 *.bin
+*.safetensors
 
 # Векторная БД
 chroma_medical_db/
