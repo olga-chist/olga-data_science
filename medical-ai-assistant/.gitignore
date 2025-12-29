@@ -1,0 +1,28 @@
+# Дапакеты
+lung_data/
+kidney_data/
+mtr_data/
+
+# Модели
+*.gguf
+*.pth
+*.pt
+*.bin
+
+# Векторная БД
+chroma_medical_db/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Окружение
+.env
+venv/
+
+# Colab/IDE
+.ipynb_checkpoints/
+*.ipynb
+
+# Gradio
+.gradio/
