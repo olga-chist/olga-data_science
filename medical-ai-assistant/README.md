@@ -132,4 +132,4 @@ python app.py
 - **Kidney Stone Detection Dataset:** [Kaggle](https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images)
 - **Brain Tumor MRI Classification Dataset:** [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) 
 - **Lung X-Ray Segmentation Dataset:** [Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
-- **BioMistral-7B:** [Hugging Face](https://huggingface.co/IlyaGusev/saiga2_7b_gguf)
+- **Saiga 2.0 7B:** [Hugging Face](https://huggingface.co/IlyaGusev/saiga2_7b_gguf)
