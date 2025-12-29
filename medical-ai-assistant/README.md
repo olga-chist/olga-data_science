@@ -75,12 +75,8 @@ medical-ai-assistant/
 │ └── nlp_preprocessor.py # NLP препроцессор
 ├── 📁 cv_models/ # Веса обученных CV моделей
 │ ├── kidney_stones/ # YOLOv8 для детекции камней
-│ │ └── best.pt
 │ ├── brain_mri/ # ResNet для классификации МРТ
-│ │ └── brain_mri_classifier.pth
 │ └── lung_xray/ # U-Net для сегментации лёгких
-│   ├──lung_segmentation_unet_weights.pth
-│   └── lung_segmentation_unet.pth
 ├──📁 medical_knowledge/ # PDF база знаний
 │ ├── Внутренние болезни 6-е изд Маколкин.pdf
 │ ├── Общая неврология.pdf
@@ -127,9 +123,12 @@ python app.py
 4. **Модульная архитектура** — независимые компоненты CV, RAG и интерфейса позволяют развивать систему поэтапно
 5. **Практическая реализуемость** — все компоненты оптимизированы для работы на доступном оборудовании (Google Colab с T4 GPU)
 
-## 📚 Использованные датасеты и модель
+## 📚 Использованные датасеты и модели
 
 - **Kidney Stone Detection Dataset:** [Kaggle](https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images)
 - **Brain Tumor MRI Classification Dataset:** [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) 
 - **Lung X-Ray Segmentation Dataset:** [Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 - **Saiga 2.0 7B:** [Hugging Face](https://huggingface.co/IlyaGusev/saiga2_7b_gguf)
+- [YOLO kidney model](https://drive.google.com/file/d/1HfAwpGAWhCiR7KxhNL5ItLFRi18IfUuf/view?usp=drive_link) → `cv_models/kidney_stones/best.pt`
+- [ResNet brain model](https://drive.google.com/file/d/1VvyPAJcEQupsY5qm2VY72TRc-vmFq-L-/view?usp=drive_link) → `cv_models/brain_mri/brain_mri_classifier.pth`
+- [U-Net lung model](https://drive.google.com/file/d/1jhA6vHIPZnrG7elnpRgHnI8b2S_UhIPZ/view?usp=drive_link) → `cv_models/lung_xray/lung_segmentation_unet_weights.pth`
