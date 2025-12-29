@@ -86,7 +86,10 @@ medical-ai-assistant/
 ├── 📁 models/
 │ └── model-q4_K.gguf # Медицинская LLM Saiga 2.0
 ├── notebooks/
-│   └── Medical_ai_assistant.ipynb 
+│   └── Medical_ai_assistant.ipynb
+├── kidney_data/         
+├── lung_data/  
+├── mrt_data/ 
 ├── 📄 app.py # Основной Gradio интерфейс
 ├── 📄 requirements.txt # Зависимости Python
 └── 📄 README.md # Документация
