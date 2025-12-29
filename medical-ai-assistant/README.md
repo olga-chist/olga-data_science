@@ -67,7 +67,7 @@
 ## 📁 Структура проекта
 ```
 medical-ai-assistant/
-├── 📁src/
+├── 📁 src/
 │ ├── cv_module.py # CV модуль: 3 модели (YOLO, ResNet, U-Net)
 │ ├── medical_bot.py # RAG бот с Saiga 2.0
 │ ├── pdf_loader.py #  Загрузчик и обработчик PDF
@@ -87,7 +87,7 @@ medical-ai-assistant/
 │ ├── Сахарный диабет 2 тип.pdf
 │ └── ...
 ├── 📁 chroma_medical_db/ # Векторная база (создаётся автоматически)
-├── models/
+├── 📁 models/
 │ └── model-q4_K.gguf # Медицинская LLM Saiga 2.0
 │
 ├── 📄 app.py # Основной Gradio интерфейс
