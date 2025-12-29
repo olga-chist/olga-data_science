@@ -99,7 +99,7 @@ medical-ai-assistant/
 
 ### 1. Установка зависимостей
 ```bash
-pip install torch torchvision ultralytics gradio llama-cpp-python chromadb langchain nltk sentence-transformers pypdf2
+pip install -r requirements.txt
 ```
 ### 2. Запуск системы
 ```python
